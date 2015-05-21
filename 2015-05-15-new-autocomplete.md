@@ -1,5 +1,3 @@
-原文：[Autocomplete just got a whole lot better](http://blog.atom.io/2015/05/15/new-autocomplete.html)
-
 在 Atom 的 0.199.0 版本中，我们首次将一个社区开发的插件 —— [autocomplete-plus](https://github.com/atom/autocomplete-plus) 捆绑到了 Atom 中，作为官方发行版的一部分。
 
 [@joefitzgerald](https://github.com/joefitzgerald), [@saschagehlich](https://github.com/saschagehlich) 以及 [@park9140](https://github.com/park9140) 改进了默认的 autocomplete 插件，提高了补全建议的准确性，随着输入实时地提供建议，并且实现了高拓展性。autocomplete-plus 像野火一样蔓延，被下载了 33 万次，是整个 Atom 生态系统中最受欢迎的插件。所以现在 autocomplete-plus 替换了原来的 autocomplete 插件。
