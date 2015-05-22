@@ -64,6 +64,6 @@ Atom 现在会为 `atom` 这个全局变量提供补全，就像 HTML 和 CSS �
 
 ## 展望
 
-我们对于 autocomplete-plus 感到非常激动，不仅仅是以为它本身提供的功能，更多的是它的开发过程。Atom 的哲学就是持续地改进，我们觉得这是 Atom 的一次巨大的进步：autocomplete-plus 从一个简单的插件的社区分支逐渐演变成了一个功能强大且可拓展的插件。我们相信可拓展和模块化的架构并非可有可无，而是构建像 Atom 这样复杂架构的软件所必须的要素。Atom 的力量建立在社区的力量至上，我们觉得 autocomplete-plus 是 Atom 拥有充满活力和创造力的社区的一个最好的例子。
+我们对于 autocomplete-plus 感到非常激动，不仅仅是以为它本身提供的功能，更多的是它的开发过程。Atom 的哲学就是持续地改进，我们觉得这是 Atom 的一次巨大的进步：autocomplete-plus 从一个简单的插件的社区分支逐渐演变成了一个功能强大且可拓展的插件。我们相信可拓展和模块化的架构并非可有可无，而是构建像 Atom 这样复杂架构的软件所必须的要素。Atom 的力量建立在社区的力量之上，我们觉得 autocomplete-plus 是 Atom 拥有充满活力和创造力的社区的一个最好的例子。
 
 最后，非常感谢 [@joefitzgerald](https://github.com/joefitzgerald), [@saschagehlich](https://github.com/saschagehlich) 和 [@park9140](https://github.com/park9140) 创造了 autocomplete-plus. 也感谢所有驱动的作者，尤其是 [@basarat](https://github.com/basarat), [@tststs](https://github.com/tststs), [@tinloaf](https://github.com/tinloaf), [@eqot](https://github.com/eqot), [@ctolkien](https://github.com/ctolkien), 他们在此期间一直保证他们的插件使用了最新的 API.
